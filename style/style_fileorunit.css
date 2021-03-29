@@ -5,6 +5,10 @@
     padding: 10px 24px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
     float: left; /* Float the buttons side by side */
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .btn-group button:not(:last-child) {
